@@ -1,0 +1,11 @@
+.text-purple {
+  color: #805ad5;
+}
+
+.nav-link:hover {
+  color: #805ad5 !important;
+}
+
+.toggle {
+  color: #fff;
+}
